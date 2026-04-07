@@ -130,3 +130,28 @@ Data: 2025-04-01
 ```
 2025-04-01 - Ep 92_ Pop The Balloon Or Find Love.mp3
 ```
+
+---
+
+## 📦 Publicação no GitHub
+
+### ✅ Projeto Publicados
+- **Repositório:** https://github.com/NiraslabDEV/Extrator-trancript-mp3-video
+- **Versão:** v1.0.0 (tag criada)
+- **Arquivos incluídos:**
+  - Código fonte completo (main.py, core/, ui/)
+  - Documentação completa (README.md, INSTRUÇÕES.md, etc.)
+  - Scripts de instalação e execução
+  - .gitignore abrangente
+
+### 📋 README.md Criado
+README profissional com:
+- Descrição completa do projeto
+- Instruções de instalação e uso
+- Screenshots e exemplos
+- Troubleshooting
+- Casos de uso e funcionalidades
+- Arquitetura do projeto
+
+### 🎯 Status Final
+O projeto "Pop the Balloon - Transcript & Audio Archiver" está **100% funcional** e **publicado** no GitHub, pronto para uso e contribuição da comunidade.
